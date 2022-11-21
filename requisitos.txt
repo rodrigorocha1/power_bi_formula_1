@@ -1,0 +1,20 @@
+1 - Análise de Corridas
+    1.1 - Número de corridas
+    1.2 - Número de temporadas
+    1.3 - Número de pilotos
+    1.4 - Número de equipes
+
+    1.5 - Número de corridas por país
+    1.6 - Detalhamento por Grand Pix (RankX)
+    1.7 - Número de corridas por geolocalização
+
+2- Análise de equipes
+    2.1 Número de podiums, vitórias e pontos por temporada
+    2.2 Podiums por equipes
+    2.3 Detalhamento por Equipes (Corridas, rank, pontos, vitórias m podium)
+    2.4 Equipe vencedora por grand prix
+3 - Pilotos 
+    3.1 - Número de podium vitorias e pontos por temporada
+    3.2 - Detalhamento por piloto
+    3.3 - Podiuns por Piloto
+    3.4 - Piloto vencedor por grand pix
